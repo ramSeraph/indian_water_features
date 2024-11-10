@@ -6,4 +6,5 @@ Contains data in releases:
 - [Rivers and Streams](https://github.com/ramSeraph/indian_water_features/releases/tag/rivers)
 - [Hydrological Boundaries](https://github.com/ramSeraph/indian_water_features/releases/tag/hydro-boundaries)
 - [Urban Water Features](https://github.com/ramSeraph/indian_water_features/releases/tag/urban-water-features)
+- [Inland Waterways](https://github.com/ramSeraph/indian_water_features/releases/tag/inland-waterways)
 
