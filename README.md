@@ -8,4 +8,5 @@ Contains data in releases:
 - [Urban Water Features](https://github.com/ramSeraph/indian_water_features/releases/tag/urban-water-features)
 - [Inland Waterways](https://github.com/ramSeraph/indian_water_features/releases/tag/inland-waterways)
 - [Irrigation Related](https://github.com/ramSeraph/indian_water_features/releases/tag/irrigation)
+- [Natural Features](https://github.com/ramSeraph/indian_water_features/releases/tag/natural)
 
