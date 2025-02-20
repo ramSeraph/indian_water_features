@@ -10,5 +10,5 @@ Contains data in releases:
 - [Irrigation Related](https://github.com/ramSeraph/indian_water_features/releases/tag/irrigation)
 - [Natural Features](https://github.com/ramSeraph/indian_water_features/releases/tag/natural)
 - [Wetlands](https://github.com/ramSeraph/indian_water_features/releases/tag/wetlands)
-
+- [Groundwater Prospects](https://github.com/ramSeraph/indian_land_features/releases/tag/groundwater-prospects) ( Not in this repo )
 
